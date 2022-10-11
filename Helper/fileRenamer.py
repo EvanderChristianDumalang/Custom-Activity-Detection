@@ -3,7 +3,7 @@ import os
 from PIL import Image
 
 # Reading Folder Path
-path = 'directory path'
+path = 'directory path for images'
 files = os.listdir(path)
 nameFile = 'Image'
 index = 0

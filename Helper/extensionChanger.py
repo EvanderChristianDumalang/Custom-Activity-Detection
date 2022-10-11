@@ -1,7 +1,7 @@
 # Change file extension
 import os
 
-dir =(r"directory path")
+dir =(r"directory path for files")
 for i in os.listdir(dir):
     files = os.path.join(dir,i)
     split= os.path.splitext(files)
