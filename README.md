@@ -16,19 +16,12 @@ Python Custom Activity Recognition
 
 ## How To Use
 
+- Add [Python](https://www.python.org/downloads/) to your machine
 - Make your dataset with `datasetMaker.py`
 - Create a model using `Training.py`
 - Show coordinates and landmarks with `showLandmark.py`
 - Test your model in the Testing folder
 - Helpful utility in the Helper folder 
-
-## Installation
-
-- Add [Python](https://www.python.org/downloads/) to your machine
-
-- Open this project folder with Terminal/CMD and run `pip install -r requirement.txt`
-
-- Run `python GUI.py` 
 
 ## Contributing
 
